@@ -8,8 +8,9 @@ I'm a Full-Stack Dev + UI/UX Designer who builds sleek, functional apps with cle
 - 🛠 Currently working on: **Crib Hunt-Helps in the job serching journey**
 - 🚀 Open to exciting job opportunities. Let’s build something legendary.
 
-> *“Code like an artist. Design like a developer.”*
-
+> *“Code like an artist. Design like a developer.”* <br/> <br/> 
+[![wakatime](https://wakatime.com/badge/user/99c47da4-e42a-438f-a162-3fccd26ed1ec.svg)](https://wakatime.com/@99c47da4-e42a-438f-a162-3fccd26ed1ec)
+        
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mcgarretronald) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcgarretronald@gmail.com) 
 
