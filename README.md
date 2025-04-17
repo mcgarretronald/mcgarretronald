@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>I’m currently building core systems for Shamba Records and OnceSync, two companies focused on driving innovation in agritech and business automation using AI and emerging technologies.<br><br>🤝 I’m looking to collaborate on<br>Innovative software products in mobility, health, or agriculture<br><br>Projects with a strong emphasis on UX/UI and real-world impact<br><br>Teams that value clean architecture, creative problem solving, and fast iteration<br><br><br>🌱 I’m currently learning<br>Advanced concepts in autonomous systems and connected car technology<br><br>Best practices in DevOps, including Kubernetes and infrastructure as code<br><br>Enhancing my approach to building scalable UI design systems<br><br>💬 Ask me about<br>Building full-stack applications from wireframe to deployment<br><br>Designing intuitive user experiences for complex systems<br><br>Combining software engineering with industry-specific innovation<br><br>Tools and workflows that balance creativity with productivity<br><br>⚡ Fun fact<br>My passion for both software development and the automotive industry often collides — I’m always exploring how code can drive the future of mobility. Whether it’s through smarter vehicles, cleaner energy, or connected systems, I’m here for it.<br><br>
+### 👋 Hey, I'm Ronald Mcgarret
 
+I'm a Full-Stack Dev + UI/UX Designer who builds sleek, functional apps with clean code and dope design. With 2+ years of experience in frontend and a passion for solving real-world problems, I turn ideas into pixel-perfect products.
+
+- 🔧 I work with **React, Next.js, Tailwind, Node.js, Django, PostgreSQL**, and more.
+- 🎯 Focused on crafting seamless user experiences & scalable backend systems.
+- 🧠 Into AI, automation, and building tools that make life easier.
+- 🛠 Currently working on: **Crib Hunt-Helps in the job serching journey**
+- 🚀 Open to exciting job opportunities. Let’s build something legendary.
+
+> *“Code like an artist. Design like a developer.”*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mcgarretronald) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcgarretronald@gmail.com) 
