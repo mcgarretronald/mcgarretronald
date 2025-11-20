@@ -1,50 +1,35 @@
-<div align="center" style="background: linear-gradient(135deg, #00FFF7 0%, #FF00C8 100%); padding: 2rem; border-radius: 1rem;">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="wave" width="100"/>
-  <h1 style="margin: 0; font-size: 2.5rem; color: #000">👋 Hey, I’m Ronald McGarret</h1>
-  <h3 style="margin: 0; font-size: 1.25rem; color: #111">Full‑Stack & Mobile Developer | Designer</h3>
-  <p style="color: #222; max-width: 600px; margin: 1rem auto;">
-    I architect digital solutions that matter — from sleek React websites to Flutter apps that support rural livelihoods.
-    I build with purpose and ship with impact.
-  </p>
-</div>
+# Ronald McGarret
+### Software Engineer — Mobile & Full-Stack
+
+I build reliable, user-focused software across mobile and web platforms.  
+My work spans the full lifecycle: architecture, UI/UX design, development, deployment, and iterative improvements based on real-world usage.  
+
+Specialized in **Flutter** and modern JavaScript frameworks with hands-on experience delivering production-grade systems in logistics, AgriTech, and service operations.
 
 ---
 
-## 🛠️ What I Build
+## 🔧 Core Competencies
 
-| Platform | Highlight |
-|---------|-----------|
-| **Web** | Production-ready React + Next.js site with optimized SEO, performance, and CMS integration |
-| **Backend** | Django REST & Node APIs powering data-driven tools for agriculture fintech and vet diagnostics |
-| **Mobile** | Flutter & ReactNative apps |
-
----
----
-
-## 🔥 Recent Wins
-
-- Optimized Shamba Records web performance → **~30% faster load times**  
-- Mobile offline-readiness built for **low-connectivity zones**  
-- **40+ features shipped**, maintaining <5% bug rate in production
+- **Mobile Engineering:** Flutter (Dart), React Native  
+- **Frontend:** React, Next.js, TypeScript  
+- **Backend:** Node.js, Django, RESTful APIs  
+- **Databases:** PostgreSQL, MySQL, Firebase, Hive, Isar  
+- **DevOps & Tools:** Git, Docker, CI/CD, GitHub Actions, Linux  
+- **Design:** Figma, Wireframing, Responsive UI  
+- **Concepts:** Offline-first apps, real-time sync, state management, API design  
 
 ---
 
-## 🔮 What’s Next
 
-- 👩‍💻 Launching the Flutter mobile ecosystem this quarter  
-- 🌐 Elevate Shamba Credit with AI-backed financial forecasting  
-- 🤝 Open to remote roles in impact-driven tech or consulting gigs
 
----
-
-## ⚡️ Want to Chat?
-
-- 📬 Drop me an email: [mcgarretronald@gmail.com](mailto:mcgarretronald@gmail.com)  
-- 📞 Let’s connect on [LinkedIn](https://linkedin.com/in/mcgarretronald)  
-- 🧭 Explore my work: [website](https://ronaldmcgarret.vercel.app)
+## 🎯 About Me
+Structured thinker with a bias for **clean, maintainable code** and meaningful impact.  
+Passionate about building software that empowers users in **AgriTech, logistics, and financial inclusion**.
 
 ---
 
-<div align="center">
-  <em>“Clean code, meaningful impact — that’s how I roll.”</em>
-</div>
+## 📫 Contact
+- **Email:** [mcgarretronald@gmail.com](mailto:mcgarretronald@gmail.com)  
+- **Portfolio:** [https://ronaldmcgarret.vercel.app](https://ronaldmcgarret.vercel.app)  
+- **GitHub:** [https://github.com/mcgarretronald](https://github.com/mcgarretronald)  
+- **LinkedIn:** [https://linkedin.com/in/mcgarretronald](https://linkedin.com/in/mcgarretronald)
